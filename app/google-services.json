@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123898969596",
+    "project_id": "healthmate-13bee",
+    "storage_bucket": "healthmate-13bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123898969596:android:5d69588a68ca630ae54679",
+        "android_client_info": {
+          "package_name": "om.ali.organdonation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-G4hL6iC_vVqVBNANFz2gNJmqxK1pV2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
